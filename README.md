@@ -5,4 +5,4 @@ To view Project click on link:  <a href="https://raktisingal.github.io/google-se
 <br>
 Preview of Project
 <br>
-<img src="googleclone.jpg" height="400px">
+<img src="googleclone.png" height="400px">
